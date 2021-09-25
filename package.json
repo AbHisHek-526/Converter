@@ -1,0 +1,15 @@
+{
+  "name": "currency-exchange",
+  "version": "1.0.0",
+  "description": "Basic Currency Converter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agastya",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
